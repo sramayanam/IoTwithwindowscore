@@ -1,0 +1,8 @@
+c:\users\srram\documents\visual studio 2015\Projects\ProcessD2CInteractiveMessages\ProcessD2CInteractiveMessages\bin\Debug\ProcessD2CInteractiveMessages.exe.config
+c:\users\srram\documents\visual studio 2015\Projects\ProcessD2CInteractiveMessages\ProcessD2CInteractiveMessages\bin\Debug\ProcessD2CInteractiveMessages.exe
+c:\users\srram\documents\visual studio 2015\Projects\ProcessD2CInteractiveMessages\ProcessD2CInteractiveMessages\bin\Debug\ProcessD2CInteractiveMessages.pdb
+c:\users\srram\documents\visual studio 2015\Projects\ProcessD2CInteractiveMessages\ProcessD2CInteractiveMessages\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\srram\documents\visual studio 2015\Projects\ProcessD2CInteractiveMessages\ProcessD2CInteractiveMessages\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\srram\documents\visual studio 2015\Projects\ProcessD2CInteractiveMessages\ProcessD2CInteractiveMessages\obj\Debug\ProcessD2CInteractiveMessages.csprojResolveAssemblyReference.cache
+c:\users\srram\documents\visual studio 2015\Projects\ProcessD2CInteractiveMessages\ProcessD2CInteractiveMessages\obj\Debug\ProcessD2CInteractiveMessages.exe
+c:\users\srram\documents\visual studio 2015\Projects\ProcessD2CInteractiveMessages\ProcessD2CInteractiveMessages\obj\Debug\ProcessD2CInteractiveMessages.pdb

@@ -1,0 +1,11 @@
+c:\users\srram\documents\visual studio 2015\Projects\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+C:\Users\srram\Documents\Visual Studio 2015\Projects\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe
+C:\Users\srram\Documents\Visual Studio 2015\Projects\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.pdb
+C:\Users\srram\Documents\Visual Studio 2015\Projects\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\srram\Documents\Visual Studio 2015\Projects\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\srram\Documents\Visual Studio 2015\Projects\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache
+C:\Users\srram\Documents\Visual Studio 2015\Projects\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+C:\Users\srram\Documents\Visual Studio 2015\Projects\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb
+C:\Users\sreeram\Documents\Visual Studio 2015\Projects\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+C:\Users\sreeram\Documents\Visual Studio 2015\Projects\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+C:\Users\sreeram\Documents\Visual Studio 2015\Projects\ReadDeviceToCloudMessages\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb
